@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.2)  2 OCT 2025 22:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.2)  2 OCT 2025 22:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -889,56 +889,61 @@ Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 70.
 
 Class revtex4-2 Warning: Assuming \noaffiliation for authors.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 121
+
+Package natbib Warning: Citation `hertz1999introduction' on page 1 undefined on
+ input line 102.
+
+[1{C:/Users/Bruno/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 175
 .
+
 (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 121
+LaTeX Font Info:    Trying to load font information for U+msb on input line 175
 .
 
 (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 12
-1.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 17
+5.
 
 (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 12
-1.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 17
+5.
 
 (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-
-Package natbib Warning: Citation `hertz1999introduction' on page 1 undefined on
- input line 125.
-
-[1{C:/Users/Bruno/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-Overfull \hbox (18.33752pt too wide) in alignment at lines 198--209
+Overfull \hbox (18.33752pt too wide) in alignment at lines 175--186
  [] [] [] [] [] [] [] [] 
  []
 
-<figs/fig1.png, id=94, 416.2752pt x 328.8285pt>
+<figs/fig1.png, id=88, 416.2752pt x 328.8285pt>
 File: figs/fig1.png Graphic file (type png)
 <use figs/fig1.png>
-Package pdftex.def Info: figs/fig1.png  used on input line 221.
+Package pdftex.def Info: figs/fig1.png  used on input line 198.
 (pdftex.def)             Requested size: 166.50713pt x 131.52907pt.
 File: figs/fig1.png Graphic file (type png)
 <use figs/fig1.png>
-Package pdftex.def Info: figs/fig1.png  used on input line 222.
+Package pdftex.def Info: figs/fig1.png  used on input line 199.
 (pdftex.def)             Requested size: 166.50713pt x 131.52907pt.
 File: figs/fig1.png Graphic file (type png)
 <use figs/fig1.png>
-Package pdftex.def Info: figs/fig1.png  used on input line 226.
+Package pdftex.def Info: figs/fig1.png  used on input line 203.
 (pdftex.def)             Requested size: 166.50713pt x 131.52907pt.
 File: figs/fig1.png Graphic file (type png)
 <use figs/fig1.png>
-Package pdftex.def Info: figs/fig1.png  used on input line 227.
+Package pdftex.def Info: figs/fig1.png  used on input line 204.
 (pdftex.def)             Requested size: 166.50713pt x 131.52907pt.
-[3] [4 <./figs/fig1.png>] (TP1.bbl) [5]
+[3] [4 <./figs/fig1.png>] (TP1.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 53.
+
+) [5]
 
 Package natbib Warning: There were undefined citations.
 
@@ -954,13 +959,13 @@ Package rerunfilecheck Info: File `TP1.out' has not changed.
 (rerunfilecheck)             Checksum: 8A63FCB3079E47829E446F9CDD346856;1832.
  ) 
 Here is how much of TeX's memory you used:
- 25178 strings out of 468129
- 467315 string characters out of 5430612
+ 25166 strings out of 468129
+ 467152 string characters out of 5430612
  878716 words of memory out of 5000000
- 53352 multiletter control sequences out of 15000+600000
- 636927 words of font info for 80 fonts, out of 8000000 for 9000
+ 53343 multiletter control sequences out of 15000+600000
+ 635296 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,9n,97p,407b,649s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,9n,97p,407b,653s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Bruno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt
 1200.pk> <C:\Users\Bruno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm1095.pk><C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -973,9 +978,9 @@ a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Bruno
 /AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Use
 rs/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pf
 b>
-Output written on TP1.pdf (6 pages, 162867 bytes).
+Output written on TP1.pdf (6 pages, 162696 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
+ 173 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
  170 words of extra memory for PDF output out of 10000 (max. 10000000)
 
