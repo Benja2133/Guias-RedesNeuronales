@@ -1,0 +1,272 @@
+duracion 15 minutos y 25 segundos
+Epoch 1/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.579845  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.589150  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.588422  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.588238  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587660  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 2/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.595345  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.585824  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.586996  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587530  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587350  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 3/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.580740  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.589451  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587792  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587225  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587116  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 4/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.574134  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.586131  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587827  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587896  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587538  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 5/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.569028  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.587757  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.589004  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.588807  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.588383  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 6/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.590785  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.587054  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587674  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587519  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.588061  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 7/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.586149  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.586879  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587446  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.588076  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587746  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 8/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.587351  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.587355  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587807  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587614  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587436  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 9/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.589376  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.588241  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.588144  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.588227  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.588157  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 10/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.590138  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.590544  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.588503  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.588456  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587983  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 11/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.582460  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.587830  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587983  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587507  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.588093  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 12/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.575929  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.587333  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587394  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587159  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587537  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 13/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.588128  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.587249  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587601  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587725  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587761  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 14/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.580143  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.585807  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.586891  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.586591  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587119  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 15/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.571390  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.588412  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.588237  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587824  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587637  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 16/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.580408  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.587309  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.588196  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587933  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.588027  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 17/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.564654  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.588096  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.588580  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587843  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587808  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 18/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.573527  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.586146  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.588042  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.588230  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587722  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 19/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.579708  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.588628  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587919  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587790  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587989  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 20/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.587017  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.589035  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.588502  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.588043  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587584  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 21/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.564811  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.587749  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.588237  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.588300  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587954  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 22/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.587581  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.588149  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587502  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587878  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587680  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 23/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.579812  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.585805  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587175  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587273  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587738  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 24/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.590261  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.587847  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587751  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587705  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.588135  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 25/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.585527  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.586854  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587935  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587565  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587680  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 26/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.588752  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.588387  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.588106  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587429  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587713  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 27/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.584748  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.587369  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587482  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587722  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587247  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 28/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.603447  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.586601  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.587467  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.587333  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587582  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 29/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.608680  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.590253  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.588669  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.588273  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587837  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Epoch 30/30:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.590400  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.586754  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.586984  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.586921  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.587411  processed_samples: 80.640000%
+@eval_loop_avg_loss=0.586798
+@eval_loop_avg_loss=0.584691
+Training complete.
