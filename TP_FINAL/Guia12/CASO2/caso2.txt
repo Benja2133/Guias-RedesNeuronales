@@ -1,0 +1,190 @@
+Epoch 1/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.169972  processed_samples: 0.426667%
+Epoch 2/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.012647  processed_samples: 0.426667%
+Epoch 3/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.010081  processed_samples: 0.426667%
+Epoch 4/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.008942  processed_samples: 0.426667%
+Epoch 5/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.008409  processed_samples: 0.426667%
+Epoch 6/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.008060  processed_samples: 0.426667%
+Epoch 7/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.007698  processed_samples: 0.426667%
+Epoch 8/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.007784  processed_samples: 0.426667%
+Epoch 9/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.007324  processed_samples: 0.426667%
+Epoch 10/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.007116  processed_samples: 0.426667%
+
+---------------------------------------------
+Epoch 10/50: train(eval 10k)=0.0048, valid(10k)=0.0048
+
+
+Epoch 11/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006616  processed_samples: 0.426667%
+Epoch 12/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006805  processed_samples: 0.426667%
+Epoch 13/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006898  processed_samples: 0.426667%
+Epoch 14/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006262  processed_samples: 0.426667%
+Epoch 15/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006525  processed_samples: 0.426667%
+Epoch 16/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006294  processed_samples: 0.426667%
+Epoch 17/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006515  processed_samples: 0.426667%
+Epoch 18/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006418  processed_samples: 0.426667%
+Epoch 19/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005997  processed_samples: 0.426667%
+Epoch 20/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006080  processed_samples: 0.426667%
+
+---------------------------------------------
+Epoch 20/50: train(eval 10k)=0.0043, valid(10k)=0.0044
+
+
+Epoch 21/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005958  processed_samples: 0.426667%
+Epoch 22/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006297  processed_samples: 0.426667%
+Epoch 23/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006038  processed_samples: 0.426667%
+Epoch 24/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005827  processed_samples: 0.426667%
+Epoch 25/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005943  processed_samples: 0.426667%
+Epoch 26/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005900  processed_samples: 0.426667%
+Epoch 27/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005919  processed_samples: 0.426667%
+Epoch 28/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006070  processed_samples: 0.426667%
+Epoch 29/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005718  processed_samples: 0.426667%
+
+***POSIBLE OVERFITTING DETECTADO***
+La pérdida de validación no mejoró o aumentó en la **Época 29**.
+Loss de Entrenamiento (Evaluación 10k): 0.0043
+Loss de Validación (Mejor anterior): 0.0042
+Loss de Validación (Actual): 0.0043
+
+Epoch 30/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005770  processed_samples: 0.426667%
+
+---------------------------------------------
+Epoch 30/50: train(eval 10k)=0.0042, valid(10k)=0.0043
+
+
+Epoch 31/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005774  processed_samples: 0.426667%
+Epoch 32/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005879  processed_samples: 0.426667%
+Epoch 33/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005300  processed_samples: 0.426667%
+Epoch 34/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005509  processed_samples: 0.426667%
+Epoch 35/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005487  processed_samples: 0.426667%
+Epoch 36/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005298  processed_samples: 0.426667%
+Epoch 37/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005854  processed_samples: 0.426667%
+Epoch 38/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005876  processed_samples: 0.426667%
+Epoch 39/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005736  processed_samples: 0.426667%
+Epoch 40/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.006200  processed_samples: 0.426667%
+
+---------------------------------------------
+Epoch 40/50: train(eval 10k)=0.0043, valid(10k)=0.0043
+
+
+Epoch 41/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005362  processed_samples: 0.426667%
+Epoch 42/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005658  processed_samples: 0.426667%
+Epoch 43/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005605  processed_samples: 0.426667%
+Epoch 44/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005645  processed_samples: 0.426667%
+Epoch 45/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005656  processed_samples: 0.426667%
+Epoch 46/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005648  processed_samples: 0.426667%
+Epoch 47/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005393  processed_samples: 0.426667%
+Epoch 48/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005050  processed_samples: 0.426667%
+Epoch 49/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005273  processed_samples: 0.426667%
+Epoch 50/50:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.005493  processed_samples: 0.426667%
+
+---------------------------------------------
+Epoch 50/50: train(eval 10k)=0.0042, valid(10k)=0.0042
+
+
+Tiempo de ejecución: 4.69 minutos
+Training complete.
+
+--- Resumen de Overfitting ---
+Posible Overfitting detectado en la Época: **29**
+Loss de Entrenamiento (Evaluación 10k) en ese momento: 0.0043
+Loss de Validación en ese momento: 0.0043
+La mejor Loss de Validación fue: 0.0042 (en la época anterior).
