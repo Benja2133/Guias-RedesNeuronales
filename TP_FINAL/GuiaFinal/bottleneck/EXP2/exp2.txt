@@ -1,0 +1,779 @@
+Epoch 1/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 2.299875  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 2.214834  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 2.064379  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 1.839245  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 1.647382  processed_samples: 80.640000%
+Epoch 2/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.866675  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.870659  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.833646  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.813202  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.794727  processed_samples: 80.640000%
+Epoch 3/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.655703  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.694173  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.689331  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.677333  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.670031  processed_samples: 80.640000%
+Epoch 4/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.637711  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.609329  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.609535  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.604282  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.603943  processed_samples: 80.640000%
+Epoch 5/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.612484  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.557600  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.568869  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.568441  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.567663  processed_samples: 80.640000%
+Epoch 6/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.603830  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.533049  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.546997  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.540670  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.540760  processed_samples: 80.640000%
+Epoch 7/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.568595  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.539369  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.529343  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.525696  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.523208  processed_samples: 80.640000%
+Epoch 8/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.457384  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.503246  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.506271  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.504942  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.501618  processed_samples: 80.640000%
+Epoch 9/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.643523  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.495787  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.494305  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.492467  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.494068  processed_samples: 80.640000%
+Epoch 10/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.566199  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.487339  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.485213  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.481477  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.479962  processed_samples: 80.640000%
+
+----------------------------------------------------------------------
+Epoch 10/100: train_avg_loss=0.3807, valid_avg_loss=0.4026
+
+train_precision=86.2%, valid_precision=85.4%
+
+-----------------------------------------------------------------------
+Epoch 11/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.494174  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.475074  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.465419  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.465036  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.466575  processed_samples: 80.640000%
+Epoch 12/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.551112  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.453878  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.459450  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.464129  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.464471  processed_samples: 80.640000%
+Epoch 13/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.398954  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.463594  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.457601  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.455756  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.455568  processed_samples: 80.640000%
+Epoch 14/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.431983  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.436725  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.445562  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.448568  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.447137  processed_samples: 80.640000%
+Epoch 15/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.502983  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.431642  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.432517  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.437746  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.439359  processed_samples: 80.640000%
+Epoch 16/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.417437  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.435483  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.437111  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.437046  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.438533  processed_samples: 80.640000%
+Epoch 17/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.512458  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.440247  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.432080  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.428629  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.428811  processed_samples: 80.640000%
+Epoch 18/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.382329  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.422601  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.421891  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.419332  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.423797  processed_samples: 80.640000%
+Epoch 19/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.374768  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.422842  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.423577  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.419356  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.420130  processed_samples: 80.640000%
+Epoch 20/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.425018  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.415230  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.417353  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.420054  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.417928  processed_samples: 80.640000%
+
+----------------------------------------------------------------------
+Epoch 20/100: train_avg_loss=0.3305, valid_avg_loss=0.3596
+
+train_precision=87.9%, valid_precision=86.9%
+
+-----------------------------------------------------------------------
+Epoch 21/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.345791  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.420723  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.410297  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.413478  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.413523  processed_samples: 80.640000%
+Epoch 22/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.373143  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.410721  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.412612  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.410679  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.410662  processed_samples: 80.640000%
+Epoch 23/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.312665  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.389600  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.401993  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.403503  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.403323  processed_samples: 80.640000%
+Epoch 24/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.406618  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.396027  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.400402  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.401194  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.401007  processed_samples: 80.640000%
+Epoch 25/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.352029  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.409945  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.395295  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.392706  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.394227  processed_samples: 80.640000%
+Epoch 26/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.337883  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.387667  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.392953  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.392228  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.394760  processed_samples: 80.640000%
+Epoch 27/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.424032  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.397347  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.394788  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.395360  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.393591  processed_samples: 80.640000%
+Epoch 28/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.463836  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.383304  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.387864  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.386122  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.384122  processed_samples: 80.640000%
+Epoch 29/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.393251  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.389187  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.388129  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.390657  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.389388  processed_samples: 80.640000%
+Epoch 30/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.388258  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.380350  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.381304  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.384279  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.385488  processed_samples: 80.640000%
+
+----------------------------------------------------------------------
+Epoch 30/100: train_avg_loss=0.3057, valid_avg_loss=0.3396
+
+train_precision=88.7%, valid_precision=87.5%
+
+-----------------------------------------------------------------------
+Epoch 31/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.369291  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.387371  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.388191  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.384784  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.384031  processed_samples: 80.640000%
+Epoch 32/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.397061  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.381484  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.381421  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.383697  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.381058  processed_samples: 80.640000%
+Epoch 33/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.289245  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.371519  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.379099  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.373606  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.373879  processed_samples: 80.640000%
+Epoch 34/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.362182  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.369167  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.365990  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.372945  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.371077  processed_samples: 80.640000%
+Epoch 35/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.367277  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.375782  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.376697  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.374187  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.374037  processed_samples: 80.640000%
+Epoch 36/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.440029  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.374048  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.370232  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.371884  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.372262  processed_samples: 80.640000%
+Epoch 37/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.394221  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.370150  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.368771  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.369137  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.371010  processed_samples: 80.640000%
+Epoch 38/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.350832  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.368340  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.370992  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.369800  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.367188  processed_samples: 80.640000%
+Epoch 39/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.352993  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.357501  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.364873  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.367051  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.366202  processed_samples: 80.640000%
+Epoch 40/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.342678  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.371470  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.370453  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.362617  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.360828  processed_samples: 80.640000%
+
+----------------------------------------------------------------------
+Epoch 40/100: train_avg_loss=0.2887, valid_avg_loss=0.3244
+
+train_precision=89.2%, valid_precision=87.9%
+
+-----------------------------------------------------------------------
+Epoch 41/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.378293  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.359986  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.360352  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.362248  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.360846  processed_samples: 80.640000%
+Epoch 42/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.422851  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.365548  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.359643  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.360209  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.360266  processed_samples: 80.640000%
+Epoch 43/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.377212  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.355460  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.358986  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.358187  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.359533  processed_samples: 80.640000%
+Epoch 44/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.344972  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.344313  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.349829  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.354895  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.358173  processed_samples: 80.640000%
+Epoch 45/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.442977  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.355965  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.353350  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.353073  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.354520  processed_samples: 80.640000%
+Epoch 46/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.316927  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.366998  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.358098  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.355865  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.356613  processed_samples: 80.640000%
+Epoch 47/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.378570  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.356017  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.350801  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.351131  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.353338  processed_samples: 80.640000%
+Epoch 48/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.263719  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.356353  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.354780  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.348991  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.350692  processed_samples: 80.640000%
+Epoch 49/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.347968  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.350654  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.344683  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.349358  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.348019  processed_samples: 80.640000%
+Epoch 50/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.325673  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.353704  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.349619  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.348789  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.348401  processed_samples: 80.640000%
+
+----------------------------------------------------------------------
+Epoch 50/100: train_avg_loss=0.2753, valid_avg_loss=0.3142
+
+train_precision=89.7%, valid_precision=88.4%
+
+-----------------------------------------------------------------------
+Epoch 51/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.379787  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.345997  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.349904  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.348905  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.344827  processed_samples: 80.640000%
+Epoch 52/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.362263  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.341897  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.342610  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.340435  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.340654  processed_samples: 80.640000%
+Epoch 53/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.276281  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.348889  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.347943  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.347619  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.344640  processed_samples: 80.640000%
+Epoch 54/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.265043  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.338777  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.337973  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.341664  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.342104  processed_samples: 80.640000%
+Epoch 55/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.273142  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.347486  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.341484  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.340792  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.340240  processed_samples: 80.640000%
+Epoch 56/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.374281  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.340916  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.339378  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.339999  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.340703  processed_samples: 80.640000%
+Epoch 57/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.327588  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.333242  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.336181  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.337096  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.335709  processed_samples: 80.640000%
+Epoch 58/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.373943  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.335222  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.333656  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.336380  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.333157  processed_samples: 80.640000%
+Epoch 59/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.363163  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.333334  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.334799  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.339325  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.336889  processed_samples: 80.640000%
+
+***POSIBLE OVERFITTING DETECTADO***
+La pérdida de validación no mejoró o aumentó en la **Época 59**.
+Loss de Entrenamiento (Evaluación 10k): 0.2660
+Loss de Validación (Mejor anterior): 0.3055
+Loss de Validación (Actual): 0.3065
+
+Epoch 60/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.307883  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.327869  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.332192  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.329673  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.332446  processed_samples: 80.640000%
+
+----------------------------------------------------------------------
+Epoch 60/100: train_avg_loss=0.2636, valid_avg_loss=0.3042
+
+train_precision=90.1%, valid_precision=88.7%
+
+-----------------------------------------------------------------------
+Epoch 61/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.350174  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.334913  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.325765  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.330160  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.330370  processed_samples: 80.640000%
+Epoch 62/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.370371  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.340430  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.338413  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.334570  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.332239  processed_samples: 80.640000%
+Epoch 63/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.354791  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.331378  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.329491  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.329321  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.330524  processed_samples: 80.640000%
+Epoch 64/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.401649  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.319034  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.333951  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.329983  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.329705  processed_samples: 80.640000%
+Epoch 65/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.371655  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.330714  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.331409  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.329126  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.331412  processed_samples: 80.640000%
+Epoch 66/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.371157  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.345557  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.332542  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.329779  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.331245  processed_samples: 80.640000%
+Epoch 67/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.343390  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.327696  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.331313  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.326886  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.326468  processed_samples: 80.640000%
+Epoch 68/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.305483  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.320283  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.326408  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.329825  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.328981  processed_samples: 80.640000%
+Epoch 69/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.342676  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.332194  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.328869  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.331289  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.327350  processed_samples: 80.640000%
+Epoch 70/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.333131  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.322647  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.322717  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.322876  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.324287  processed_samples: 80.640000%
+
+----------------------------------------------------------------------
+Epoch 70/100: train_avg_loss=0.2545, valid_avg_loss=0.2960
+
+train_precision=90.4%, valid_precision=89.1%
+
+-----------------------------------------------------------------------
+Epoch 71/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.289925  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.314184  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.322893  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.323460  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.324285  processed_samples: 80.640000%
+Epoch 72/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.365254  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.325171  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.329036  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.325974  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.324174  processed_samples: 80.640000%
+Epoch 73/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.310055  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.313051  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.321101  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.320510  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.322253  processed_samples: 80.640000%
+Epoch 74/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.236239  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.332576  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.323175  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.319674  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.322066  processed_samples: 80.640000%
+Epoch 75/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.317927  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.315721  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.316361  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.313384  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.317697  processed_samples: 80.640000%
+Epoch 76/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.261495  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.309383  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.316783  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.318288  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.318088  processed_samples: 80.640000%
+Epoch 77/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.260582  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.319582  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.317912  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.317989  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.320668  processed_samples: 80.640000%
+Epoch 78/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.214411  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.315309  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.319256  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.319083  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.316514  processed_samples: 80.640000%
+Epoch 79/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.382058  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.313500  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.317138  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.319292  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.317237  processed_samples: 80.640000%
+Epoch 80/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.384250  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.317348  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.313695  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.314541  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.316010  processed_samples: 80.640000%
+
+----------------------------------------------------------------------
+Epoch 80/100: train_avg_loss=0.2466, valid_avg_loss=0.2897
+
+train_precision=90.7%, valid_precision=89.3%
+
+-----------------------------------------------------------------------
+Epoch 81/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.349385  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.319597  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.314860  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.313012  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.314948  processed_samples: 80.640000%
+Epoch 82/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.314870  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.323951  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.319896  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.315384  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.315875  processed_samples: 80.640000%
+Epoch 83/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.278115  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.307046  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.307431  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.309755  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.312274  processed_samples: 80.640000%
+Epoch 84/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.287463  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.303309  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.306981  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.313367  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.315642  processed_samples: 80.640000%
+Epoch 85/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.347732  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.313593  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.307748  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.311160  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.309764  processed_samples: 80.640000%
+Epoch 86/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.282435  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.303168  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.304762  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.306999  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.308730  processed_samples: 80.640000%
+Epoch 87/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.371817  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.308667  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.309368  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.307462  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.308954  processed_samples: 80.640000%
+Epoch 88/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.378216  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.305243  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.304957  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.306109  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.308463  processed_samples: 80.640000%
+Epoch 89/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.302743  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.307758  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.307454  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.307529  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.307564  processed_samples: 80.640000%
+Epoch 90/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.348206  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.313334  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.306976  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.306931  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.307543  processed_samples: 80.640000%
+
+----------------------------------------------------------------------
+Epoch 90/100: train_avg_loss=0.2398, valid_avg_loss=0.2853
+
+train_precision=91.0%, valid_precision=89.5%
+
+-----------------------------------------------------------------------
+Epoch 91/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.331538  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.313475  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.314773  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.314704  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.309782  processed_samples: 80.640000%
+Epoch 92/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.404548  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.299020  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.297708  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.302121  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.304993  processed_samples: 80.640000%
+Epoch 93/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.282931  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.311929  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.305153  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.302747  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.304414  processed_samples: 80.640000%
+Epoch 94/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.430971  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.308180  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.303500  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.303640  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.305506  processed_samples: 80.640000%
+Epoch 95/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.259777  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.297525  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.301446  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.305784  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.302981  processed_samples: 80.640000%
+Epoch 96/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.297636  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.309742  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.304304  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.303648  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.304732  processed_samples: 80.640000%
+Epoch 97/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.384259  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.315119  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.317253  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.309704  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.305043  processed_samples: 80.640000%
+Epoch 98/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.300014  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.303290  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.301480  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.305038  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.305202  processed_samples: 80.640000%
+Epoch 99/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.251616  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.293062  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.293447  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.298016  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.299496  processed_samples: 80.640000%
+Epoch 100/100:
+-------------------------------
+  Batch     0/  235 - avrg_Loss: 0.273525  processed_samples: 0.426667%
+  Batch    47/  235 - avrg_Loss: 0.285531  processed_samples: 20.480000%
+  Batch    94/  235 - avrg_Loss: 0.293273  processed_samples: 40.533333%
+  Batch   141/  235 - avrg_Loss: 0.299025  processed_samples: 60.586667%
+  Batch   188/  235 - avrg_Loss: 0.300167  processed_samples: 80.640000%
+
+----------------------------------------------------------------------
+Epoch 100/100: train_avg_loss=0.2330, valid_avg_loss=0.2802
+
+train_precision=91.2%, valid_precision=89.6%
+
+-----------------------------------------------------------------------
+Tiempo de ejecución: 5.78 minutos
+Training complete.
